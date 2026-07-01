@@ -24,7 +24,7 @@ spring:
   # mongoclient
   data:
     mongodb:
-      uri: mongodb+srv://vicky:tibame888@cluster0.sw4btkx.mongodb.net/?retryWrites=true&w=majority
+      uri: mongodb+srv://vicky:{key}@{url}.mongodb.net/?retryWrites=true&w=majority
       database: patient
       
   # jackson
