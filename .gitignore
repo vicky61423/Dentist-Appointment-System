@@ -1,0 +1,36 @@
+# === Java ===
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.nar
+
+# Build directories (Maven / Gradle)
+target/
+build/
+.gradle/
+
+# === Visual Studio ===
+# Visual Studio local workspace state
+.vs/
+
+# === Other IDEs (IntelliJ, Eclipse, VS Code) ===
+.idea/
+*.iml
+*.iws
+*.classpath
+*.project
+*.settings/
+.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# === OS Generated Files ===
+.DS_Store
+Thumbs.db
