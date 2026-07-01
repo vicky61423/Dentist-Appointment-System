@@ -9,9 +9,6 @@
 | <img src="img/clinicWebPage.png" width = 400>     | <img src="img/醫師病歷系統_病歷填寫與叫號.png" width = 400> |
 
 
-
-
-
 A comprehensive dental clinic management system featuring a patient booking frontend and a doctor's medical record backend.
 
 ### 🎥 Demo Video
