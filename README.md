@@ -13,7 +13,7 @@ A comprehensive dental clinic management system featuring a patient booking fron
 
 ### 🎥 Demo Video
 
-* [Project Introduction on YouTube](https://www.google.com/search?q=%23) *(👈 Replace with your actual YouTube link)*
+* [Project Introduction on YouTube](https://youtu.be/WA7HqjGuXJ4) *(👈 Replace with your actual YouTube link)*
 
 ### ✨ Core Features
 
@@ -53,7 +53,7 @@ A comprehensive dental clinic management system featuring a patient booking fron
 
 ### 🎥 專案展示
 
-* [作品介紹影片 @YouTube](https://www.google.com/search?q=%23) *(👈 請將 # 替換為實際的 YouTube 連結)*
+* [作品介紹影片 @YouTube](https://youtu.be/WA7HqjGuXJ4) *
 
 ### ✨ 系統功能
 
